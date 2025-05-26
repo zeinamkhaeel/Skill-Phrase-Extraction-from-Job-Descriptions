@@ -18,7 +18,6 @@ Extracted Phrases:
 
 
 ## 📁 Files
-- `postings.csv` — raw input dataset
+- `postings.csv` — raw input dataset you can downloaded from Kaggle https://www.kaggle.com/datasets/arshkon/linkedin-job-postings
 - `job_skill_extraction.ipynb` — full preprocessing and NLP pipeline
-- `assets/` — visuals for sharing
 
